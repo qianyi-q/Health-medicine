@@ -1,0 +1,72 @@
+{
+  "pages": [
+    "pages/linshi/linshi",
+    "pages/denglu/denglu",
+    "pages/zhuce/zhuce",
+    "pages/index/index",
+    "pages/laoren/laoren",
+    "pages/huli/huli",
+    "pages/wode/wode",
+    "pages/toutiao/toutiao",
+    "pages/bangding/bangding",
+    "pages/geren/geren",
+    "pages/action/action",
+    "pages/richang/richang",
+    "pages/zhengce/zhengce",
+    "pages/geren/touxiang/touxiang",
+    "pages/geren/mingcheng/mingcheng",
+    "pages/geren/riqi/riqi",
+    "pages/geren/nianling/nianling",
+    "pages/geren/phone/phone",
+    "pages/datail/datail",
+    "pages/custom/custom",
+    "pages/preview/preview",
+    "pages/more/more",
+    "pages/weixinlink/weixinlink",
+    "pages/logs/logs",
+    "pages/zhijing/zhijing",
+    "pages/zuixiang/zuixiang",
+    "pages/huanhuan/huanhuan",
+    "pages/baixing/baixing"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#FF0000",
+    "backgroundColor": "#000000",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "tupian/daohanglan/shouye.png",
+        "selectedIconPath": "tupian/daohanglan/shouye1.png"
+      },
+      {
+        "pagePath": "pages/laoren/laoren",
+        "text": "老人",
+        "iconPath": "tupian/daohanglan/laoren.png",
+        "selectedIconPath": "tupian/daohanglan/laoren1.png"
+      },
+      {
+        "pagePath": "pages/huli/huli",
+        "text": "护理",
+        "iconPath": "tupian/daohanglan/huli.png",
+        "selectedIconPath": "tupian/daohanglan/huli1.png"
+      },
+      {
+        "pagePath": "pages/wode/wode",
+        "text": "我的",
+        "iconPath": "tupian/daohanglan/wode.png",
+        "selectedIconPath": "tupian/daohanglan/wode1.png"
+      }
+    ]
+  }
+}
